@@ -1,0 +1,7 @@
+.idea/
+tmp/
+item.txt
+log
+tocrawl.txt
+*.pyc
+venv/
